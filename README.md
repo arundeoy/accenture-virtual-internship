@@ -18,9 +18,9 @@ software engineering by refactoring code, agile methodology and  CI/CD ,jenkin
 4. Run the following command to test the project
     ./gradlew test
 
-github push 
+Git and Github push 
 
-Api implementation
+# Api implementation 
 
 Refactoring existing code to transform into api
 
